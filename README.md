@@ -1,2 +1,2 @@
 # DeepMusic
-Deep learning project about genrative music.
+Deep learning project about music generation.
