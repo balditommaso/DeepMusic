@@ -130,6 +130,10 @@ dmypy.json
 
 # dataset 
 midis/
+training/
+validation/
+test/
+dataset/
 *.mid
 
 .idea
