@@ -1,0 +1,1 @@
+{"embedding_dimension": 32, "dff_dimension": 32, "num_attention_heads": 4, "num_layers": 1, "learning_rate": 0.01}
